@@ -1,5 +1,8 @@
-div{
-    background-color: turquoise;
-    padding: 10px;
-    margin-bottom: 50px
+.short{
+    background-color: rebeccapurple;
+}
+
+.short1 {
+    background-color: aqua;
+    margin-top: 50%;
 }
