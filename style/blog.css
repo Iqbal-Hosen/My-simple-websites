@@ -1,12 +1,15 @@
-.short{
-    background-color: rebeccapurple;
+
+div{
+    background-color: orange;
+   color: black;
+   border: 5px;
+   border-radius: 10px;
+   text-align: center;
+   text-decoration: bisque;
 }
 
-.short1 {
-    background-color: aqua;
-    margin-top: 50%;
-}
-img{
-    widows: 100px;
-    height: 100px;
-}
+   
+
+
+
+
